@@ -1,0 +1,11 @@
+fastapi
+motor
+uvicorn
+torch
+numpy
+scipy
+sklearn
+pillow
+beanie
+pydantic[dotenv]
+python-multipart
